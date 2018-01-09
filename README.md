@@ -1,2 +1,1 @@
-# algorithm
-学习js基础，写的小demo
+学习js基础，总结的代码
