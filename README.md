@@ -7,6 +7,8 @@
 
 [call的实现](https://github.com/strongcode9527/algorithm/blob/master/js/call.js)
 
+[new的实现](https://github.com/strongcode9527/algorithm/blob/master/js/new.js)
+
 
 ### js模式
 

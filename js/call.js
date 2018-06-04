@@ -13,7 +13,7 @@ Function.prototype.call2 = function (context, ...args) {
 // 兼容代码
 
 Function.prototype.apply = function (context, arr) {
-  var context = Object(context) || window
+  context = Object(context) || window
   context.fn = this
 
   var result
