@@ -24,5 +24,5 @@
 
 ### 算法
 
-[无重复字符的最长子串](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/maxUniqueSubStr.md)
+[无重复字符的最长子串](https://github.com/strongcode9527/algorithm/blob/master/js/maxUniqueSubStr.md)
 
