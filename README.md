@@ -9,6 +9,7 @@
 
 [new的实现](https://github.com/strongcode9527/algorithm/blob/master/js/new.js)
 
+[防抖和节流] (https://github.com/strongcode9527/algorithm/blob/master/js/debunceAndThrottle.md)
 
 ### js模式
 
