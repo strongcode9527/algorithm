@@ -9,6 +9,7 @@
 function binarySearch(array, key) {
   let left = 0, 
       right = array.length - 1
+
       while(left <= right) {
         const middleIndex = ~~((left + right) / 2)
         
@@ -39,7 +40,8 @@ function binarySearch(array, key) {
 
 function binarySearchLeft(array, key) {
   let left = 0, 
-  right = array.length - 1
+      right = array.length - 1
+
   while(left <= right) {
     const middleIndex = ~~((left + right) / 2)
     
@@ -59,9 +61,12 @@ function binarySearchLeft(array, key) {
 ```
 
 // binarySearchRight([3,3,3,3,3,3,3], 3) => 6
+
+
 function binarySearchRight(array, key) {
   let left = 0, 
-  right = array.length - 1
+      right = array.length - 1
+
   while(left <= right) {
     const middleIndex = ~~((left + right) / 2)
     
