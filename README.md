@@ -11,6 +11,8 @@
 
 [防抖和节流](https://github.com/strongcode9527/algorithm/blob/master/js/debunceAndThrottle.md)
 
+[二分法查找](https://github.com/strongcode9527/algorithm/blob/master/js/binarySearch.md)
+
 ### js模式
 
 [继承模式](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/extends.js)
