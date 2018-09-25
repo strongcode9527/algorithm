@@ -17,13 +17,11 @@
 
 [继承模式](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/extends.js)
 
-
 [工厂模式](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/factory.js)
-
-
 
 [单例模式](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/singleton.js)
 
+[多态](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/polymorphic.md)
 
 ### 算法
 
