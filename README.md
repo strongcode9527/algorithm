@@ -11,7 +11,6 @@
 
 [防抖和节流](https://github.com/strongcode9527/algorithm/blob/master/js/debunceAndThrottle.md)
 
-[二分法查找](https://github.com/strongcode9527/algorithm/blob/master/js/binarySearch.md)
 
 ### js模式
 
@@ -28,4 +27,17 @@
 ### 算法
 
 [无重复字符的最长子串](https://github.com/strongcode9527/algorithm/blob/master/js/maxUniqueSubStr.md)
+
+
+[二分法查找](https://github.com/strongcode9527/algorithm/blob/master/js/binarySearch.md)
+
+[快速排序](https://github.com/strongcode9527/algorithm/blob/master/js/quickSort.js)
+
+
+
+
+
+
+
+
 
