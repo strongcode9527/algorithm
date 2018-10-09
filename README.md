@@ -24,10 +24,12 @@
 
 [策略](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/strategy.md)
 
+[组合模式](https://github.com/strongcode9527/algorithm/blob/master/js/patterns/mixin.md)
+
+
 ### 算法
 
 [无重复字符的最长子串](https://github.com/strongcode9527/algorithm/blob/master/js/maxUniqueSubStr.md)
-
 
 [二分法查找](https://github.com/strongcode9527/algorithm/blob/master/js/binarySearch.md)
 
