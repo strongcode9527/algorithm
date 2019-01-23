@@ -21,6 +21,56 @@ function deepClone2(target, obj) {
   return target = JSON.parse( JSON.stringify(obj) )
 }
 
+// 不使用递归进行处理，且进行了循环引用的处理
+function deepClone(source) {
+  const target = Array.isArray(source) ? [] : {}
+
+  const hashDatabase = new Map()
+  
+  const stack = [{
+    source,
+    target,
+    key: undefined,
+    parent: undefined,
+  }]
+  
+  // hashDatabase.set(source, target)
+
+  while( stack.length > 0 ) {
+
+    const { source, target, key, parent } = stack.pop()
+
+    for(let i in source) {
+      const value = source[i]
+      
+      if(typeof value === 'object' && value !== null) {
+        if(!hashDatabase.has(value)) {
+          const object = Array.isArray(value) ? [] : {}
+          stack.push({
+            key: i,
+            source: value,
+            parent: target,
+            target: object,
+          })
+          hashDatabase.set(value, object)
+        }else {
+          target[key] = value
+        }
+      }else {
+        target[i] = value
+      }
+    }
+
+    if( key && parent) {
+      parent[key] = target
+    }
+  }
+
+  
+  return target
+}
+
+
 var obj = {
   a: {
     b: {
@@ -37,11 +87,15 @@ var obj = {
   }
 }
 
-var result = {}
 
-console.log(deepClone1(result, obj))
-console.log(obj.a === result.a, obj.a.b.d.name === result.a.b.d.name)
-console.log(deepClone2(result, obj))
+
+
+
+
+var a = deepClone(obj)
+
+console.log(obj.a === a.a, obj.a.b.d.name === a.a.b.d.name)
+
 
 
 
