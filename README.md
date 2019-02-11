@@ -38,6 +38,10 @@
 
 [快速排序](https://github.com/strongcode9527/algorithm/blob/master/js/quickSort.js)
 
+[环形链表](https://github.com/strongcode9527/algorithm/blob/master/js/hasCycle.js)
+
+[删除倒数第N个节点](https://github.com/strongcode9527/algorithm/blob/master/js/removeNthFromEnd.js)
+
 
 
 
