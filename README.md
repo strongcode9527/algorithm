@@ -42,6 +42,8 @@
 
 [删除倒数第N个节点](https://github.com/strongcode9527/algorithm/blob/master/js/removeNthFromEnd.js)
 
+[长度最小的子数组](https://github.com/strongcode9527/algorithm/blob/master/js/minSubArray.md)
+
 
 
 
