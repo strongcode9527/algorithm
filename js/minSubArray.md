@@ -27,4 +27,3 @@ console.log(minSubArrayLen(100, [2, 3, 1, 5, 2]))
 
 
 ```
-
