@@ -6,6 +6,7 @@
 输出: 6
 解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
 
+```
 
 var maxSubArray = function(nums) {
     let maxSum = -Infinity;
@@ -20,3 +21,4 @@ var maxSubArray = function(nums) {
   return maxSum;
 };
 
+```
