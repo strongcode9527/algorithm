@@ -44,6 +44,8 @@
 
 [长度最小的子数组](https://github.com/strongcode9527/algorithm/blob/master/js/minSubArray.md)
 
+[最大子序和](https://github.com/strongcode9527/algorithm/blob/master/js/maxSubArray.md)
+
 
 
 
