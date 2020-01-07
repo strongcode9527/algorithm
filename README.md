@@ -7,6 +7,8 @@
 
 [call的实现](https://github.com/strongcode9527/algorithm/blob/master/js/call.js)
 
+[bind的实现](https://github.com/strongcode9527/algorithm/blob/master/js/bind.js)
+
 [new的实现](https://github.com/strongcode9527/algorithm/blob/master/js/new.js)
 
 [防抖和节流](https://github.com/strongcode9527/algorithm/blob/master/js/debunceAndThrottle.md)
