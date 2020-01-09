@@ -4,6 +4,7 @@
 
 [深复制](https://github.com/strongcode9527/algorithm/blob/master/js/deepClone.js)
 
+[apply的实现](https://github.com/strongcode9527/algorithm/blob/master/js/apply.js)
 
 [call的实现](https://github.com/strongcode9527/algorithm/blob/master/js/call.js)
 
