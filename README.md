@@ -42,6 +42,8 @@
 
 [删除倒数第N个节点](https://github.com/strongcode9527/algorithm/blob/master/js/removeNthFromEnd.js)
 
+[回溯法，数的组合](https://github.com/strongcode9527/algorithm/blob/master/js/combinationSum2.js)
+
 
 
 
