@@ -45,13 +45,11 @@
 
 [删除倒数第N个节点](https://github.com/strongcode9527/algorithm/blob/master/js/removeNthFromEnd.js)
 
-<<<<<<< HEAD
 [回溯法，数的组合](https://github.com/strongcode9527/algorithm/blob/master/js/combinationSum2.js)
-=======
+
 [长度最小的子数组](https://github.com/strongcode9527/algorithm/blob/master/js/minSubArray.md)
 
 [最大子序和](https://github.com/strongcode9527/algorithm/blob/master/js/maxSubArray.md)
->>>>>>> 3c0b4f5c9d32ea7802867c37d82e0dbe774bc083
 
 
 
